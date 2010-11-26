@@ -18,10 +18,5 @@ namespace CustomControls
 		{
 			InitializeComponent();
 		}
-
-		private void myImage_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
-		{
-
-		}
 	}
 }
