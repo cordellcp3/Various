@@ -1,0 +1,7 @@
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\Bin\Debug\CustomControls.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\Bin\Debug\CustomControls.pdb
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\obj\Debug\LockableTextbox.g.i.cs
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\obj\Debug\CustomControls.g.resources
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControls\obj\Debug\CustomControls.pdb

@@ -1,0 +1,5 @@
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest.Web\bin\CustomControlTest.Web.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest.Web\bin\CustomControlTest.Web.pdb
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest.Web\obj\Debug\CustomControlTest.Web.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest.Web\obj\Debug\CustomControlTest.Web.pdb

@@ -1,0 +1,14 @@
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\CustomControlTest.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\CustomControlTest.pdb
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\AppManifest.xaml
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\CustomControlTest.xap
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\CustomControlTestTestPage.html
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\CustomControls.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\Bin\Debug\CustomControls.pdb
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\App.g.i.cs
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\MainPage.g.i.cs
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\CustomControlTest.g.resources
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\CustomControlTest.dll
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\CustomControlTest.pdb
+C:\Users\benjamin.isak\Documents\Visual Studio 2010\Projects\CustomControls\CustomControlTest\obj\Debug\XapCacheFile.xml

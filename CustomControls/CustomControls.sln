@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{78A44A57-EE3F-4C26-B971-5500906AF974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControlTest", "CustomControlTest\CustomControlTest.csproj", "{18C24F7B-D07D-4F92-BA31-D372746A152A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControlTest.Web", "CustomControlTest.Web\CustomControlTest.Web.csproj", "{7A862188-026B-4888-9AA9-D0268996944E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A44A57-EE3F-4C26-B971-5500906AF974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A44A57-EE3F-4C26-B971-5500906AF974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A44A57-EE3F-4C26-B971-5500906AF974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A44A57-EE3F-4C26-B971-5500906AF974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C24F7B-D07D-4F92-BA31-D372746A152A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C24F7B-D07D-4F92-BA31-D372746A152A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C24F7B-D07D-4F92-BA31-D372746A152A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C24F7B-D07D-4F92-BA31-D372746A152A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A862188-026B-4888-9AA9-D0268996944E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A862188-026B-4888-9AA9-D0268996944E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A862188-026B-4888-9AA9-D0268996944E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A862188-026B-4888-9AA9-D0268996944E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
